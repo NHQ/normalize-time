@@ -1,0 +1,24 @@
+{
+  "name": "normalize-time",
+  "version": "1.0.0",
+  "description": "normalizer for time values, given a start time and duration",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NHQ/normalize-time.git"
+  },
+  "keywords": [
+    "normalize",
+    "time",
+    "jsynth"
+  ],
+  "author": "Johnny Honestly <mostmodernist@gmail.com> (http://johnnyscript.us/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NHQ/normalize-time/issues"
+  },
+  "homepage": "https://github.com/NHQ/normalize-time"
+}
