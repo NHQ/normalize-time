@@ -26,7 +26,7 @@ for(var t = time; t < time + duration){
 ```
 What we have done here is created a function that will normalize 3 seconds of time to values between zero and one.  We could have passed min and max values to normalize between any two values.
 
-You may find this useful with such modules as [jsynth](https://npmjs.org/package/jsynth]
+You may find this useful with such modules as [jsynth](https://npmjs.org/package/jsynth)
 
 ## test
 wow johnny wrote a test.
