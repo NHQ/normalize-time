@@ -1,9 +1,9 @@
 # normalize-time
 This is a normalizer for time-based stuff.  The module is a function that takes 4 arguments:
-*start time
-*duration
-*min
-*max
+* start time
+* duration
+* min
+* max
 
 min and max are optional, and wil default to 0 and 1 respectively.
 
