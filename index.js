@@ -8,8 +8,13 @@ module.exports = function(start, dur, min, max){
 
 	return function(time){
 
-		return min + (time - start) * r / d
-	
+		x = min + (time - start) * r / d
+		if(x > 1){
+//			console.log('pre', time, end)
+			if(time < end) x = Number('.' + x.toString().split('.').join(''))
+//			console.log('norm', x)
+		}
+		return x
 	}
 
 }
