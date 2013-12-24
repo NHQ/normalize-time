@@ -1,6 +1,6 @@
 {
   "name": "normalize-time",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "normalizer for time values, given a start time and duration",
   "main": "index.js",
   "scripts": {
